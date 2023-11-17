@@ -1,0 +1,7 @@
+# sirius.ai
+
+#ru Решение проектного кейса "Анализ массива медицинских данных с целью создания предсказательного сервиса" в рамках отборочного этапа программы Sirius.AI. Выполнен проектной командой, Ширкуновым Александром Дмитриевичем и Ширкуновым Евгением Дмитриевичем. Внутри представлена модель нейросети на основе алгоритма Doc2Vec, обученная на жалобах пациентов. В дальнейшем планируется обновление этого репозитория, добавление статистики c многомерной кластеризацией алгоритмом K-means. Навигация по папке: main.py -- подготовка и тег данных, тренировка модели; clustering.py -- попытка организации данных путём кластеризации (в процессе разработки); d2v.model -- сама модель, обученная с помощью библиотеки gensim.
+
+#en The following repository is the documentation of the case study "Analysis of medical data array to create a predictive service" within the qualifying stage of the Sirius.AI programme. Carried out by Aleksandr. D. Shirkunov and Evgeny. D. Shirkunov. Inside the repository is a neural network model based on the Doc2Vec algorithm trained on patient complaints. Further updates to this repository will include adding statistics and K-means multivariate clustering. Folder navigation: main.py -- data preparation and tagging, training the model; clustering.py -- an attempt to organise data by clustering (in progress); d2v.model -- the model itself, trained using the gensim library.
+
+the project info: https://sochisirius.ru/obuchenie/distant/smena1667/7783
